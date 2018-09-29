@@ -22,9 +22,16 @@ body {
 }
 
 .header {
-
+    background-image: url(../img/hero.jpg);
+    background-size: cover;
+    background-position: top;
+    height: 95vh;
+    position: relative;
 }
 
 .logo {
-    
+    position: absolute;
+    top: 20px; 
+    left: 20px;
+    height: 35px;
 }
