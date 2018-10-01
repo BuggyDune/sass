@@ -122,6 +122,8 @@ body {
     }
 }
 
+/* Buttons COnfig */
+
 .btn:link,
 .btn:visited {
     text-transform: uppercase;
